@@ -1,0 +1,14 @@
+{
+  "codes": [
+    {
+      "key": "1521992",
+      "status": "active",
+      "expiry": "2025-12-31"
+    },
+    {
+      "key": "999999",
+      "status": "inactive",
+      "expiry": "2024-12-31"
+    }
+  ]
+}
